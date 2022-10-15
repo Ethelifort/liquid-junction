@@ -3,64 +3,109 @@ html{
 
   }
 
+  body{
+    background-color: hsla(268, 30%, 42%, 0.507);
+}
+
+.flex{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flexTwo{
+    display:flex;
+    flex-direction: row;
+}
+
+.flexThree{
+    display:flex;
+    margin-left: 22%;
+    margin-right: 22%;
+    justify-content:space-between;
+    flex-direction: row;
+    align-content: space-around;
+    flex-wrap: wrap;
+    line-height: 2.1;
+    font-size: 18px;
+
+  
+    
+}
+
+
+#ingredients{
+display:flex;
+justify-content:flex-start;
+align-content: space-around;
+
+}
+
+
 h1{
     color:rgb(248, 252, 21);
-    padding-left:38%;
     font-size: 25px;
+    display: flex;
+    justify-content: center;
 
 }
 
-body{
-    background-color: hsla(268, 30%, 42%, 0.507);
-
-
+h2{
+    margin-bottoms: 15px;
 }
+
+
+
+
+h3{
+
+    display: flex;
+    color: hsla(261, 88%, 37%, 0.932);
+    font-size: 25px;
+}
+
+h4{
+     display:inline;
+     margin-bottom: 8px;
+}
+
 
 section{
-    padding-left:35%;
-
-
+    display: flex;
 }
 
 img{
     border: solid;
-    width: 45%;
-    height: 75%;
-    margin-bottom: 30px;
+    height: 500px;
+    width: 500px;
+    margin-bottom: 15px;
+
     
 }
 
 p{
 
+    display: flex;
     font-size:20px;
+    flex-wrap: wrap;
     font-weight:bold;
+    align-items: flex-end;
 
 
 }
 
-h3{
 
-    color: hsla(261, 88%, 37%, 0.932);
-    font-size: 25px;
-    
 
-}
 
-ol>li{
-    margin-bottom:15px;
-    font-size: 40x;
-}
 
-h4 {
-    font-weight: bolder;
-    font-size : 19px;
-}
+
 
 #next-button{
 
-    margin-left:10%;
-
 }
+
 
 .glow {
     font-size: 50px;
