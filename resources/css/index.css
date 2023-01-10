@@ -124,6 +124,12 @@ p{
     width: 75%;
     height: 90%;
     margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+h1 .glow{
+    display: flex;
+    justify-content: center;
 }
 
 .flexThree{
@@ -145,8 +151,11 @@ p{
 
 .flexTwo{
 justify-content: center;
-margin-left: 17%;
-margin-bottom: 10%;
+margin-left: 5%;
+margin-bottom: 12.5%;
+font-size: 18px;
 }
+
+
 
 }
