@@ -127,9 +127,11 @@ p{
     margin-bottom: 10%;
 }
 
-h1 .glow{
+h1 {
     display: flex;
     justify-content: center;
+    margin-left:25%;
+
 }
 
 .flexThree{
@@ -151,11 +153,9 @@ h1 .glow{
 
 .flexTwo{
 justify-content: center;
-margin-left: 5%;
+margin-left:9%;
 margin-bottom: 12.5%;
 font-size: 18px;
 }
-
-
 
 }
