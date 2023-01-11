@@ -25,7 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/.png) // Place screenshot of game here
+<img src = "https://user-images.githubusercontent.com/94102400/211699325-a31e6a0e-f735-44ac-8872-2635432f54be.png" width = 750 height = 475>
+
+
+
+
 
 ### Links
 
