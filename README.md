@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- [Code Source](https://github.com/Ethelifort/liquid-junction/tree/master/resources)
+- [Code Source](https://liquid-junction.netlify.app)
 
 ## Our process
 
